@@ -23,3 +23,25 @@
       </head>      
 </html>
 
+// To make numbered points (ordered line ol)
+<ol>
+<li>Amadeus</li>
+<li>Stand By Me</li>
+<li>Amelie</li>
+</ol>
+
+// To make unnmbered line or bullets
+<ul>
+<li>Alien</li>
+<li>Parasite</li>
+<li>Annie Hall</li>
+</ul>
+
+// you can also use hollow bullets like
+<ul>
+<ul>
+<li>Alien</>
+</ul>
+<li>Parasite</li>
+<li>Annie Hall</li>
+</ul>
