@@ -1,0 +1,25 @@
+// Writing title of html (is displayed on tab of your browser)
+<title>Airplane-Wikipedia</title>
+
+// Bolding a specific text
+<b>Aeroplane</b>or<b>Airplane</b>
+
+//Starting and ending a paragraph (<p></p>)
+<p>In the 1890s, Lawrence Hargrave conducted research on wing structures and developed a box kite that lifted the weight of a man. His box kite designs were widely adopted. Although he also developed a type of rotary aircraft engine, he did not create and fly a powered fixed-wing aircraft.<p/>
+<p>Between 1867 and 1896, the German pioneer of human aviation Otto Lilienthal developed heavier-than-air flight. He was the first person to make well-documented, repeated, successful gliding flights.</p>
+
+// Heading of a page (its different from title)
+<h1>Airplane</h1>
+<h2>Etymology and usage</h2> //h1 is the main heading and rest be the subheadings making them smaller in size compared to h1
+
+// Certain important things to make run html file
+<!DOCTYPE html> // should ne on the top for reference visit any page and click on inspect element
+<html>
+      <head>
+            <body>
+            paragraph    // This is actually the skeleton of writing a HTML page make 
+                         // You can also find this structure directly by just typing EXCLAMATION "!" in VS code software
+            </body>
+      </head>      
+</html>
+
