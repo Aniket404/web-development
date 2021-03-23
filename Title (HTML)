@@ -45,3 +45,14 @@
 <li>Parasite</li>
 <li>Annie Hall</li>
 </ul>
+
+//Using Anchor Tags for creating links
+<a href="http://www.google.co.in">A google search</a>
+<a href="http://site">name on your html page of that specific word</a>
+
+// Using image in your html page
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFktKhmPkE7KoGigeKsA63GvY51Y-nkVgkg&usqp=CAU" alt="">
+
+// Using comment in your html code
+<!-- comments -->
+
