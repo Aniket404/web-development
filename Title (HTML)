@@ -56,3 +56,26 @@
 // Using comment in your html code
 <!-- comments -->
 
+// To create Table
+ <table>                                       // table start
+        <tr>                                   // table row in html
+            <th>Animal</th>                    // table header
+            <th>Average mass</th>
+            <th>Max mass</th>
+            <th>Flighted</th>
+        </tr>
+    <tr>
+        <td>Common ostrich</td>                // table data cell
+        <td>104 (230)</td>
+        <td>156.8 (346)</td>
+        <td>No</td>
+    </tr>
+
+    <tr>
+        <td>Domestic turkey/wild turkey</td>
+        <td>13.5 (29.8)</td>
+        <td>39 (86)</td>
+        <td>Yes</td>
+    </tr>
+    </table>
+
