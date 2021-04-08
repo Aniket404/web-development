@@ -78,4 +78,59 @@
         <td>Yes</td>
     </tr>
     </table>
+    
+    // checkbox
+    
+    <form action="/chckbx">
+<input type="checkbox" name="agree" id="agree">
+<label for="agree">I agree</label>
+</form>
+
+// radio buttons
+
+<form action="/size">
+  <label for="XS">XS</label>
+  <input type="radio" name="size" id="xs" value="extrasmall">
+  <label for="S">S</label>
+  <input type="radio" name="size" id="s" value="small">
+  <label for="M">m</label>
+  <input type="radio" name="size" id="m" value="medium">
+  <button>submit</button>
+</form>
+
+// search engines
+ 
+ <form action="https://www.youtube.com/results">    
+  <input type="text" name="search_query">        // remember name is different for different search engines search_query for youtube q for reddit etcetc
+  <button>search youtube</button>
+  </form>
+  
+// select command such as arrow and below it'll be displayed options
+
+<form action="/identify">
+  <label for="identify animal">identify animal</label>
+  <select  name="pets" id="pet select"> 
+  <option value="dog" >dog</option>
+  <option value="cat">cat</option>                                           // remember value should be used so that it comes in search url
+  <option value="fish">fish</option>
+  <option value="chicken">chicken</option>
+</select>
+  <button>submit</button>
+</form>
+
+// to make a type area box so that someone can type inthere
+<label for="type here">type here</label>
+<br>
+<textarea name="requests" id="requests" cols="30" rows="10" placeholder="type here something"></textarea>
+
+// to make volume type of buttons
+<form action="duh">
+<label for="Amount ">amount of cheese</label>
+<input type="range" min="0" max="10" step="2" value="9" name="cheese level">   // remember the step command is optional also remember min and max terms can be used in input command such as number 
+<button>submit</button>
+</form>
+
+// 
+
+  
 
